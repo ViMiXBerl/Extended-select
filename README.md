@@ -10,4 +10,4 @@ ____
 ## Как запустить
 ____
 
-| git clone https://github.com/ViMiXBerl/OZITAG-FRONTEND-TESTING-TASK |
+##### git clone https://github.com/ViMiXBerl/OZITAG-FRONTEND-TESTING-TASK 
